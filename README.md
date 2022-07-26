@@ -30,6 +30,7 @@ bash mqttack.sh 127.0.0.1
  + [8] Login and Subscribe to Topics
  + [0] Exit
 
+#### For Password Bruteforce Attack, You will need to keep your username and password list separately into user.txt & pass.txt inside 'src' directory. 
 ***
  ### If you love my work then you can buy me a Coffee here.
  <a href="https://www.buymeacoffee.com/souravbaghz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
