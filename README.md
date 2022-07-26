@@ -1,5 +1,5 @@
 <p align="center">
-  <img  width="600" src="MQTTack-banner.png" />
+  <img  width="600" src="src/MQTTack-banner.png" />
 </p>
 <h1 align="center"><b>MQTTack</b></h1>
 
